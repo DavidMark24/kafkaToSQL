@@ -1,0 +1,2 @@
+2023-07-21 14:24:08,378 ERROR:An error occurred while subscribing topic to mySQL: Failed to create consumer: group.id must be set
+2023-07-21 14:46:04,686 ERROR:An error occurred while subscribing topic to mySQL: Failed to create consumer: group.id must be set
